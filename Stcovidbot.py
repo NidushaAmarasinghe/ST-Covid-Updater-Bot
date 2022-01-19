@@ -80,8 +80,8 @@ Inline mode
 
 # Markup
 mark1 = telebot.types.InlineKeyboardMarkup()
-mark1.add(telebot.types.InlineKeyboardButton(text='Updates', url='https://t.me/szteambots'),
-          telebot.types.InlineKeyboardButton(text='Support', url='https://t.me/slbotzone')),
+mark1.add(telebot.types.InlineKeyboardButton(text='Updates', url='https://t.me/staptap'),
+          telebot.types.InlineKeyboardButton(text='Support', url='https://t.me/SlapTaps')),
 mark1.add(telebot.types.InlineKeyboardButton(text='Latest Details', callback_data=1)),
 mark1.add(telebot.types.InlineKeyboardButton(text='Go Inline', switch_inline_query_current_chat="")),
 
