@@ -9,5 +9,5 @@
  
  <h1><i>Team:-</i>  <a href="https://t.me/SlapTap">@SlapTap</h1></a>
 
-Developer :- <a href="https://t.me/NidushaAmarasinghe">Click Here To Contact Devrloper</a> 
+Deverloper :- <a href="https://t.me/NidushaAmarasinghe">Click Here To Contact Deverloper</a> 
  </dev>
